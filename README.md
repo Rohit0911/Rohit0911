@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohit0911
-- 👀 I’m interested in ...Competitive Programming 
-- 🌱 I’m currently learning ...Machine Learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Web Development , Machine Learning & Competitive Programming 
+- 🌱 Little bit Inclined towards Web3... 
+- 💞️ I’m looking to collaborate on ...Web Dev and ML projects
 - 📫 How to reach me ... https://www.linkedin.com/in/rohit-pol-453a89222
 
 <!---
